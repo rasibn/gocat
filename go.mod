@@ -1,4 +1,4 @@
-module gocat
+module github.com/rasibn/gocat
 
 go 1.24.6
 
