@@ -2,7 +2,9 @@
 
 ## Install
 
+```bash
 go install github.com/rasibn/gocat@v0.1.1
+```
 
 ## Options
 
