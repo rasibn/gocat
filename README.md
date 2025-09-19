@@ -1,5 +1,11 @@
 # gocat
 
+## Install
+
+go install github.com/rasibn/gocat@v0.1.1
+
+## Options
+
 ```bash
 NAME:
    gocat - Concatenate files in a directory using ripgrep + optional fzf
