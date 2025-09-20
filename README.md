@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-go install github.com/rasibn/gocat@v0.1.1
+go install github.com/rasibn/gocat@latest
 ```
 
 ## Options
